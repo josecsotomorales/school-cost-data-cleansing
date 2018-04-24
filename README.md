@@ -1,1 +1,2 @@
 # school-cost-data-cleansing
+Four data sources with 2 districts, District A, District B, the objective is to join those data sources and clean the data. After that we can create the Linear Regression Model.
